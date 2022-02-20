@@ -3,11 +3,12 @@
 - 🔭 Tenho interesse em Física e Ciência de Dados
 - 🌱 Atualmente estou aprendendo a linguagem Julia
 
-<div align="center">
-  <a href="https://github.com/p3dr0id">
+<a href="https://github.com/p3dr0id">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=p3dr0id&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/p3dr0id">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3dr0id&layout=compact&langs_count=7&theme=swift"/>
-</div>
+</a>
 
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="50" />
