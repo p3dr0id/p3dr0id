@@ -2,7 +2,6 @@
 
 - 🔭 Tenho interesse em Física e Ciência de Dados
 - 🌱 Atualmente estou aprendendo a linguagem Julia
-- 📫 meu e-mail para contato é pedrodp42@gmail.com
 
 <div align="center">
   <a href="https://github.com/p3dr0id">
@@ -17,13 +16,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" height="50" width="50" />
-
 </div>
 
 ##
+  
+<div>
+    <a href="https://instagram.com/pedro883n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href="https://twitter.com/pdrodp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 
   ![Snake animation](https://github.com/p3dr0id/p3dr0id/blob/output/github-contribution-grid-snake.svg)
+  
+ </div>
 
 <!--
 **p3dr0id/p3dr0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
