@@ -23,7 +23,7 @@
 ##
 
 <div> 
-  ![Snake animation](https://github.com/p3dr0id/p3dr0id/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/p3dr0id/p3dr0id)
 </div>
 
 <!--
