@@ -22,9 +22,8 @@
 
 ##
 
-<div> 
-  ![Snake animation](https://github.com/p3dr0id/p3dr0id)
-</div>
+
+  ![Snake animation](https://github.com/p3dr0id/p3dr0id/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **p3dr0id/p3dr0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
